@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "no-style-please"
-  spec.version       = "0.3.1"
+  spec.version       = "0.4.2"
   spec.authors       = ["Riccardo Graziosi"]
   spec.email         = ["riccardo.graziosi97@gmail.com"]
 
@@ -15,4 +15,5 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency "jekyll", "~> 3.8.7"
   spec.add_runtime_dependency "jekyll-feed", "~> 0.13.0"
   spec.add_runtime_dependency "jekyll-seo-tag", "~> 2.6.1"
+
 end
